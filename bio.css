@@ -1,0 +1,36 @@
+body{
+    color: white;
+    background-color: #0f2e61;
+    font-family: 'Source Code Pro', serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;		
+}
+
+img.profile{
+    border-radius: 50%;
+    height: 300px;
+    border: 4px outset white;
+}
+
+div{
+    background-color: white;
+    height:fit-content;
+    width: 75%;
+    color: black;
+    border: 4px groove #4783bf;
+}
+p{
+    padding:10px;
+}
+ul{
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
